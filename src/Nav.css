@@ -132,7 +132,7 @@ nav {
 }
 
 .dropdown1{
-    width: 110px;
+    width: 120px;
     height: 100px;
     padding: 5px 10px;
     margin-top: 10px;
@@ -143,6 +143,7 @@ nav {
    display: none;
    margin-top: 135px;
    margin-left: 10px;
+   background-color: #FFF;
 }
 
 .dropdown1 ul{
@@ -181,7 +182,7 @@ hr{
 }
 
 .dropdown2{
-    width: 130px;
+    width: 150px;
     height: 200px;
     padding: 5px 15px;
     margin-top: 10px;
@@ -192,6 +193,7 @@ hr{
    display: none;
    margin-top: 235px;
    margin-left: 10px;
+   background-color: #FFF;
 }
 
 .dropdown2 ul{

@@ -33,18 +33,18 @@ function Nav() {
                             <hr/>
                             <li><a href='./Home'>News Letters</a></li>
                             <hr/>
-                            <li><a href='./Home'>Contact</a></li>
-                            <hr/>
                             <li><a href='./Home'>ITR Reports</a></li>
+                            <hr/>
+                            <li><a href='./Home'>Contact</a></li>
                             </ul>
                         </div>
                     
                     
                     </li>
                     <li><a href='./Home'>PROGRAMS</a></li>
-                    <li><a href='./Home'>GET INVOLVED</a></li>
-                    <button className='loginbtn' ><a href='./login'>LOG IN</a></button>
-                    <button className='signupbtn'><a href='./login'> SIGN UP</a></button>
+                    <li><a href='./Home'>SERVICES</a></li>
+                    {/* <button className='loginbtn' ><a href='./login'>LOG IN</a></button>
+                    <button className='signupbtn'><a href='./login'> SIGN UP</a></button> */}
                 </ul>
             </div>
 
